@@ -1,6 +1,6 @@
 {
 	"currencyApi": {
-		"domain": "demo-test.apigee.net",
-		"basepath": "/currency/v1"
+		"domain": "madhans-trial-test.apigee.net",
+		"basepath": "/currency/madhansv1"
 	}
 }

@@ -4,4 +4,8 @@
 		<Ref>request.queryparam.date</Ref>
 		<Value>latest</Value>
 	</AssignVariable>
+	<AssignVariable>
+		<Name>request.queryparam.access_key</Name>
+		<Value>8a8c36378b744aec2a637f1c11449b32</Value>
+	</AssignVariable>
 </AssignMessage>
